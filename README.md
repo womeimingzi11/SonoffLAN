@@ -131,6 +131,7 @@ These devices only work through the cloud!
 
 - [Sonoff L1](https://www.itead.cc/sonoff-l1-smart-led-light-strip.html) (color, brightness, effects) fw 2.7.0
 - [Sonoff B1](https://www.itead.cc/sonoff-b1.html) (color, brightness, color temp) fw 2.6.0
+- [Sonoff B5](https://www.aliexpress.com/item/1005002061178114.html) (color, brightness, color temp, color effect) fw 1.3.2
 - [Sonoff SC](https://www.itead.cc/sonoff-sc.html) (five sensors) fw 2.7.0
 - [Sonoff DW2](https://www.itead.cc/sonoff-dw2.html)
 - [King Art - King Q4 Cover](https://www.aliexpress.com/item/32956776611.html) (pause, position) fw 2.7.0
